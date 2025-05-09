@@ -1,6 +1,6 @@
 # Fetal Health Classification Using Decision Trees and Random Forest
 
-This project applies machine learning techniques to classify fetal health status based on cardiotocographic measurements. It was developed as part of the **Machine Learning with Python** module in the **Bangkit 2024** program.
+This project applies machine learning techniques to classify fetal health status based on cardiotocographic measurements. It was developed as part of the final project of the **Data Modelling with Python** class.
 
 ## 📊 Project Overview
 
